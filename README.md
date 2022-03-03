@@ -1,4 +1,5 @@
-# chat_app
+# 실시간 채팅 어플리케이션
+- 카카오톡 클론코딩 
 
 # 파이어베이스 연결
 - Authentication: 구글 로그인 가능
@@ -12,4 +13,4 @@
 ![image](https://user-images.githubusercontent.com/65011438/156574284-e0c27e05-efb9-4c72-8e4a-d466a7ffef1c.png)
 
 
-![image](https://user-images.githubusercontent.com/65011438/156574306-8cd7b5ac-850d-4ae2-9be9-583e71f56ce2.png)
+![image](https://user-images.githubusercontent.com/65011438/156574538-9f9f7666-cc95-4f0b-9bf1-1ca020619341.png)
